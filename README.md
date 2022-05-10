@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shidqiiii/Frontend-Mentor-Challenge/tree/NFT-preview-card)
+- Solution URL: [Github](https://github.com/shidqiiii/NFT-preview-card-component)
 - Live Site URL: [Netlify](https://nft-card-dev-arunika.netlify.app/)
 
 ## My process
